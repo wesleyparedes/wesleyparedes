@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wesley Paredes
+# 👋 Olá, eu sou Wesley Paredes | #OpenToWork
 
 💻 Técnico em Suporte | 🎓 Estudante de Desenvolvimento de Sistemas  
 
@@ -20,9 +20,12 @@ Estudo **desenvolvimento de sistemas**, com foco em lógica de programação, bo
 ### 🛠️ Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ---
 
